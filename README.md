@@ -2,5 +2,5 @@
 
 ---
 
-The code in the EDI section is used to process national trade data.
-The code in the MachineLearning is used to calculate the BAF (Bioaccumulation Factor) of molecules.
+- Code in the EDI section is used to process national trade data.
+- Code in the MachineLearning is used to calculate the BAF (Bioaccumulation Factor) of molecules.
